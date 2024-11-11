@@ -1,0 +1,1 @@
+# diplom-base-4.0
